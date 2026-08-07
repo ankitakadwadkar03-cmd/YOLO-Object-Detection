@@ -165,3 +165,8 @@ Possible improvements include:
 ## Author
 
 Developed as a YOLO-based Object Detection project using Python, OpenCV, and Ultralytics YOLOv8.
+## Sample Detection Result
+
+Below is an example of YOLOv8 detecting multiple objects in an image:
+
+![YOLO Detection Result](screenshots/detection_result.jpg)
